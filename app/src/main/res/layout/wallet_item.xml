@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Cüzdan adı -->
+    <TextView
+        android:id="@+id/walletNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cüzdan Adı"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <!-- Cüzdan bakiyesi -->
+    <TextView
+        android:id="@+id/walletBalanceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bakiye: 100.00 TL"
+        android:textSize="16sp"/>
+</LinearLayout>

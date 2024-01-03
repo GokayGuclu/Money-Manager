@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="islemler">İşlemler</string>
+    <string name="cuzdanlar">Cüzdanlar</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="pass">Şifre</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="login">Giriş Yap</string>
+    <string name="oldpass">Mevcut Şifre</string>
+    <string name="newpass">Yeni Şifre</string>
+    <string name="changepass">Şifreyi Değiştir</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="deleteacc">Hesabımı Sil</string>
+    <string name="addtransaction">Add Transaction</string>
+</resources>
